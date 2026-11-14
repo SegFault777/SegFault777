@@ -36,32 +36,34 @@
 
 <h2 align="center">🛠️ What I Build</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🖥️ Operating Systems</h3>
       <p>Experimenting with OS development</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🎵 Audio Software</h3>
       <p>Building DAWs and exploring audio programming</p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🌐 Browser Engines</h3>
       <p>Learning how browsers work by building one</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🧩 Developer Tools</h3>
       <p>Editors and other tools</p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>🏢 Office Programs</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
       <h3>⚙️ Low-level Software</h3>
       <p>Getting closer to the metal</p>
     </td>
@@ -99,7 +101,7 @@ Low-level   ██████████████████████�
 
 <h2 align="center">🧠 Interests</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" align="center">Operating Systems</td>
     <td width="50%" align="center">Computer Architecture</td>
