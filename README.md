@@ -76,8 +76,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13" alt="x86 Assembly">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-9179E4?logo=csharp&logoColor=white" alt="C%23">
+  <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13" alt="x86 Assembly">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Vulkan-AC162C?logo=vulkan&logoColor=white" alt="Vulkan">
   <img src="https://img.shields.io/badge/Win32-Native-0078D6?logo=windows&logoColor=white" alt="Win32 Native">
@@ -94,6 +95,7 @@
 C           █████████████████████████████████████████
 C++         █████████████████████████
 Rust        ████████████████
+C#          █████████████
 JavaScript  █████████
 HTML        █████
 Low-level   █████████████████████████████████████████████████████
