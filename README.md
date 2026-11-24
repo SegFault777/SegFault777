@@ -99,6 +99,7 @@
         <td>
           <img src="https://img.shields.io/badge/Low--level-555555" alt="Low-level">
           <img src="https://img.shields.io/badge/Vulkan-AC162C?logo=vulkan&logoColor=white" alt="Vulkan">
+          <img src="https://img.shields.io/badge/Metal-000000?logo=apple&logoColor=white" alt="Metal">
           <img src="https://img.shields.io/badge/Win32-Native-0078D6?logo=windows&logoColor=white" alt="Win32 Native">
         </td>
       </tr>
@@ -107,6 +108,7 @@
         <td>
           <img src="https://img.shields.io/badge/Qt%206-41CD52?logo=qt&logoColor=white" alt="Qt 6">
           <img src="https://img.shields.io/badge/AppKit-0D96F6?logo=apple&logoColor=white" alt="AppKit">
+          <img src="https://img.shields.io/badge/SwiftUI-0055FF?logo=swift&logoColor=white" alt="SwiftUI">
         </td>
       </tr>
       <tr>
