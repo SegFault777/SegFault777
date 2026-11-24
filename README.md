@@ -74,21 +74,52 @@
 
 <h2 align="center">💻 Tech</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-9179E4?logo=csharp&logoColor=white" alt="C%23">
-  <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13" alt="x86 Assembly">
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Vulkan-AC162C?logo=vulkan&logoColor=white" alt="Vulkan">
-  <img src="https://img.shields.io/badge/Win32-Native-0078D6?logo=windows&logoColor=white" alt="Win32 Native">
-  <img src="https://img.shields.io/badge/Low--level-555555" alt="Low-level">
-  <img src="https://img.shields.io/badge/Qt%206-41CD52?logo=qt&logoColor=white" alt="Qt 6">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" alt="Python">
-</p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Category</th>
+        <th align="left">Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Languages</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+          <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++">
+          <img src="https://img.shields.io/badge/C%23-9179E4?logo=csharp&logoColor=white" alt="C#">
+          <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
+          <img src="https://img.shields.io/badge/x86%20Assembly-6E4C13" alt="x86 Assembly">
+          <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" alt="Python">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Systems &amp; Graphics</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Low--level-555555" alt="Low-level">
+          <img src="https://img.shields.io/badge/Vulkan-AC162C?logo=vulkan&logoColor=white" alt="Vulkan">
+          <img src="https://img.shields.io/badge/Win32-Native-0078D6?logo=windows&logoColor=white" alt="Win32 Native">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>GUI &amp; Desktop</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Qt%206-41CD52?logo=qt&logoColor=white" alt="Qt 6">
+          <img src="https://img.shields.io/badge/AppKit-0D96F6?logo=apple&logoColor=white" alt="AppKit">
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Web</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
+          <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h3 align="center">Technology Overview</h3>
 
