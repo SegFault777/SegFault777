@@ -101,6 +101,23 @@ HTML        █████
 Low-level   █████████████████████████████████████████████████████
 </pre>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SegFault777&layout=compact&theme=dark&hide_border=true"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SegFault777&layout=compact&theme=default&hide_border=true"
+    >
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SegFault777&layout=compact&hide_border=true"
+      alt="Languages Usage"
+    >
+  </picture>
+</p>
+
 <h2 align="center">🧠 Interests</h2>
 
 <table align="center">
